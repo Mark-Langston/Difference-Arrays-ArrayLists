@@ -9,9 +9,9 @@ This repository contains examples and descriptions of both arrays and ArrayLists
 
 **Example of an array:**
 
-String[] colors = {"red", "blue", "green"};
+String[] colors = {"red", "blue", "green"};<br>
 <br>
-or alternatively
+or alternatively<br>
 <br>
 String[] colors;<br>
 colors = new String[3];<br>
