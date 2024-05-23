@@ -1,5 +1,5 @@
-// CSC262 Programming in JAVA
-// Mark Langston    5/21/2024
+// CSC262 Programming in JAVA<br>
+// Mark Langston    5/21/2024<br>
 
 # Difference-Arrays-ArrayLists
 
@@ -26,7 +26,7 @@ Arrays can also be in 2d form, in math it would be called a matrix. 2d arrays
 have many applications, they can even be used to create tables of data or draw
 images and patterns to the screen.
 
-**Example of a 2d array:**
+**Example of a 2d array:**<br>
 int[][] grid = {<br>
  {10, 15, 27},<br>
  {22, 36, 15},<br>
